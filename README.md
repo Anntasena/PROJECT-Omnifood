@@ -1,5 +1,7 @@
 # OMNIFOOD
 
+![OmniFood Preview Website](img/omnifood-preview.JPG)
+
 ## Deskripsi
 Selamat datang di proyek website pertama saya yang dibuat dengan HTML dan CSS! Website ini bernama **omnifood**, sebuah platform katering makanan sehat yang menggunakan AI untuk memilih menu makanan sesuai dengan kriteria pengguna. Dengan omnifood, Anda bisa mendapatkan rekomendasi menu yang sehat dan lezat tanpa repot!
 ## Fitur
