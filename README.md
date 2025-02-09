@@ -21,5 +21,5 @@ Selamat datang di proyek website pertama saya yang dibuat dengan HTML dan CSS! W
 ## Cara Menggunakan
 1. **Clone Repository**:
    ```sh
-   git clone https://github.com/username/PROJECT-HTML-CSS-Responsive-Website.git
+   git clone https://github.com/username/PROJECT-Omnifood.git
 
