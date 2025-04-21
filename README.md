@@ -6,6 +6,9 @@
 
 Welcome to my first website project built with HTML and CSS! This website is named Omnifood, a healthy food catering platform that uses AI to select meal menus based on user criteria. With Omnifood, you can get healthy and delicious meal recommendations without any hassle!
 
+## DEMO
+[Omnifood](https://project-omnifood-app.netlify.app/)  
+
 ## Fitur
 
 - **Responsive**: Design that adapts to various screen sizes, from desktop to mobile devices.
