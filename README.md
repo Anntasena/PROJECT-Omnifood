@@ -1,25 +1,30 @@
 # OMNIFOOD
 
-![OmniFood Preview Website](img/omnifood-preview.JPG)
+![OmniFood Preview Website](OmniFood_Preview.png)
 
-## Deskripsi
-Selamat datang di proyek website pertama saya yang dibuat dengan HTML dan CSS! Website ini bernama **omnifood**, sebuah platform katering makanan sehat yang menggunakan AI untuk memilih menu makanan sesuai dengan kriteria pengguna. Dengan omnifood, Anda bisa mendapatkan rekomendasi menu yang sehat dan lezat tanpa repot!
+## Description
+
+Welcome to my first website project built with HTML and CSS! This website is named Omnifood, a healthy food catering platform that uses AI to select meal menus based on user criteria. With Omnifood, you can get healthy and delicious meal recommendations without any hassle!
+
 ## Fitur
-- **Responsif**: Desain yang menyesuaikan dengan berbagai ukuran layar, dari desktop hingga perangkat mobile.
-- **HTML Semantik**: Menggunakan elemen-elemen HTML5 semantik untuk meningkatkan aksesibilitas dan SEO.
-- **CSS Modern**: Menggunakan flexbox dan grid layout untuk tata letak yang fleksibel dan efisien.
-- **JavaScript**: Menggunakan sedikit JavaScript untuk interaktivitas tambahan.
-- **Kompatibilitas Browser**: Dapat dijalankan di semua browser modern.
 
-## Teknologi yang Digunakan
-- **HTML5**: Untuk struktur dan konten web.
-- **CSS3**: Untuk styling dan layout, menggunakan flexbox dan grid.
-- **JavaScript**: Untuk interaktivitas tambahan.
-- **SEO Friendly**: Teknik SEO dasar untuk meningkatkan visibilitas mesin pencari.
-- **Kompatibilitas Browser**: Dapat dijalankan di semua browser modern.
+- **Responsive**: Design that adapts to various screen sizes, from desktop to mobile devices.
+- **Semantic HTML**: Using semantic HTML5 elements to enhance accessibility and SEO.
+- **Modern CSS**: Utilizing flexbox and grid layout for flexible and efficient layout.
+- **JavaScript**: Using a bit of JavaScript for additional interactivity.
+- **Browser Compatibility**: Runs on all modern browsers.
 
-## Cara Menggunakan
+## Technologies Used
+
+- **HTML5**: For web structure and content.
+- **CSS3**: For styling and layout, using flexbox and grid.
+- **JavaScript**: For additional interactivity.
+- **SEO Friendly**: Basic SEO techniques to improve search engine visibility.
+- **Browser Compatibility**: Runs on all modern browsers.
+
+## How to Use
+
 1. **Clone Repository**:
    ```sh
    git clone https://github.com/username/PROJECT-Omnifood.git
-
+   ```
