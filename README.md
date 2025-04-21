@@ -1,6 +1,6 @@
 # OMNIFOOD
 
-![OmniFood Preview Website](OmniFood_Preview.png)
+![OmniFood Preview Website](img/OmniFood_Preview.png)
 
 ## Description
 
